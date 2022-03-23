@@ -1,0 +1,44 @@
+body {
+  background-color: Aquamarine;
+  text-align: center;
+}
+
+p {
+  color: #DA5F3F;
+  font-family: fantasy;
+  font-size: 25px;
+  margin: 20px;
+}
+ img{
+   margin: 100px 0 50px 0;
+   width: 250px;
+}
+
+input {
+  Width: 300px;
+  height: 50px;
+  margin: 20px;
+  border: none;
+  border-radius: 10 px;
+  font: fantasy;
+  text-align: center;
+  font-size: 40px;
+}
+
+input:focus {
+  border: solid 5px #DA5F3F; 
+  outline: none;
+}
+
+#greet {
+  background-color: #B7FFE1;
+  color: #DA5F3F;
+  width: 200px;
+  font-weight: bold;
+}
+
+#greet:hover {
+  background-color: #DA5F3F;
+  color: #B7FFE1;
+  cursor: pointer;
+}
